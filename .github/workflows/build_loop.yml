@@ -282,7 +282,8 @@ jobs:
           future_carbs_4h \
           high_carb_limit \
           no_auth \
-          now_line
+          now_line \
+          meal_days
 
       # Patch Fastlane Match to not print tables
       - name: Patch Match Tables
